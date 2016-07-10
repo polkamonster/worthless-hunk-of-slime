@@ -4,7 +4,7 @@ int main(int argc, char* argv[])
 {
     if (argc != 2)
     {
-        std::cout << "Hey! gimme one numba" << std::endl;
+        std::cout << "Hey! gimme one numba bubba" << std::endl;
         return 0;
     }
 
